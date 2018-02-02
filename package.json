@@ -1,0 +1,10 @@
+{
+  "name": "a",
+  "version": "9.9.1",
+  "dependencies": {
+    "chalk": "2.0.0"
+  },
+  "renovate": {
+    "extends": ["config:base"]
+  }
+}
