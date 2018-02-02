@@ -5,6 +5,9 @@
     "chalk": "2.0.0"
   },
   "renovate": {
-    "extends": ["config:base"]
+    "extends": ["config:base"],
+    "encrypted": {
+      "npmToken": "kwKxeFu1Z9c5ohDhLamkRoBuiPhhiM+h9FKNfo/Bm82qRszloAqSeI3tvMF5fcNNkOk6yRIJtduB/qJ/0MFpTUyqN3iGAAqe7BSIx1Lx6V9bosGhV+J1Z23KC27dbRiKbtjn1DX7JJKvfGrTtYbTSJuZdQ9xM0O33oSqrQ/sbxOsoVAqheq+froW8hEZ+yf0x69yT1yc4HvkXt0cW7JiCRznb13PioQoXy4YokaSKuGwr4eWhMML/1NiWGvMvF0G2PDqs+J9vL03aWCvUbgKA1GIE9nZJPGrWYYkKFlKuJyCxInNApNUiGVHnlIk0F+2ADEOWRiRbLxysyAIIt8O/w=="
+    }
   }
 }
